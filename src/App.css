@@ -1,0 +1,27 @@
+.main {
+  margin: 2em 0;
+}
+.footer {
+  min-height: 150px
+}
+.column {
+  padding-bottom: 15px
+}
+.buttonTop {
+  margin-top: 8px
+}
+.dropText {
+  position: relative;
+  top: 72px;
+  text-align: center
+}
+.vestidos-title {
+  margin-bottom: 8px
+}
+.card-vestidos {
+  cursor: pointer
+}
+.card-vestidos:hover, .card-active {
+  border: 1px solid #EF9A9A;
+  color: #EF5350
+}
